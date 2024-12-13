@@ -98,7 +98,7 @@ nav ul li {
 
 .item-detail-left {
     flex: 0 0 50%;
-    margin-right: 20px;
+    padding-right: 20px;
 }
 .item-detail-right {
     flex: 0 0 50%;
